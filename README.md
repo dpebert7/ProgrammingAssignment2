@@ -1,5 +1,4 @@
-This assignment is from "Introduction to R" by R.D. Peng, completed  
-June 2015
+This assignment is from the course "Introduction to R" by R.D. Peng, completed June 2015 through Coursera.
 
 ### Introduction
 
