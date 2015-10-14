@@ -1,3 +1,6 @@
+This assignment is from "Introduction to R" by R.D. Peng, completed  
+June 2015
+
 ### Introduction
 
 This second programming assignment will require you to write an R
